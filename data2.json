@@ -2,20 +2,8 @@
   "items": {
     "makeup": [
       {
-        "id": "1756368082717",
-        "title": "24/7 Moondust Glitter Eyeshadow Singles | URBAN DECAY ≡ SEPHORA",
-        "link": "https://www.sephora.me/ae-en/p/24-7-moondust-glitter-eyeshadow-singles/P10017909",
-        "image": "https://img-product.sephora.me/dw/image/v2/BKWK_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dw53e3ebb9/images/hi-res/SKU/SKU_2498/551575_swatch.jpg?sw=1248&sh=1248&sm=fit&q=85",
-        "type": "wishlist",
-        "rating": 0,
-        "review": "",
-        "date": "2025-08-28T08:01:22.717Z",
-        "parsing": false,
-        "updatedAt": "2025-08-28T08:15:49.909Z"
-      },
-      {
         "id": "1756368157244",
-        "title": "Benetint - Rose-tinted Lip & Cheek Stain | BENEFIT COSMETICS ≡ SEPHORA",
+        "title": "Benetint - Rose-tinted Lip & Cheek Stain | BENEFIT COSMETICS â¡ SEPHORA",
         "link": "https://www.sephora.me/ae-en/p/benetint-rose-tinted-lip-cheek-stain/P10044925",
         "image": "https://img-product.sephora.me/dw/image/v2/BKWK_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dw68315632/images/hi-res/SKU/SKU_6284/764532_swatch.jpeg?sw=1248&sh=1248&sm=fit&q=85",
         "type": "wishlist",
@@ -27,7 +15,7 @@
       },
       {
         "id": "1756368113865",
-        "title": "Brazilian Crush Body Perfume Mist ≡ Sephora KSA",
+        "title": "Brazilian Crush Body Perfume Mist â¡ Sephora KSA",
         "link": "https://www.sephora.me/ae-en/p/cheirosa-62-perfume-mist/P3347006?productVariantId=534604",
         "image": "https://img-product.sephora.me/dw/image/v2/BKWK_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dw7ae9235c/images/hi-res/SKU/SKU_4920/534604_swatch.jpg?sw=1248&sh=1248&sm=fit&q=85",
         "type": "wishlist",
@@ -39,7 +27,7 @@
       },
       {
         "id": "1756368106048",
-        "title": "Glowmotions Body Oil Glow Anywhere Set | SOL DE JANEIRO ≡ SEPHORA",
+        "title": "Glowmotions Body Oil Glow Anywhere Set | SOL DE JANEIRO â¡ SEPHORA",
         "link": "https://www.sephora.me/ae-en/p/glowmotions-body-oil-glow-anywhere-set/P1000207972?productVariantId=764438",
         "image": "https://img-product.sephora.me/dw/image/v2/BKWK_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dwc789fcae/images/hi-res/SKU/SKU_6509/764438_swatch.jpg?sw=1248&sh=1248&sm=fit&q=85",
         "type": "wishlist",
@@ -51,7 +39,7 @@
       },
       {
         "id": "1756368097593",
-        "title": "HD Skin Face Essentials Palette | MAKE UP FOR EVER ≡ SEPHORA",
+        "title": "HD Skin Face Essentials Palette | MAKE UP FOR EVER â¡ SEPHORA",
         "link": "https://www.sephora.me/ae-en/p/hd-skin-face-essentials-palette/P10053928?productVariantId=700288",
         "image": "https://img-product.sephora.me/dw/image/v2/BKWK_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dw8e49f455/images/hi-res/SKU/SKU_4604/700288_swatch.jpg?sw=1248&sh=1248&sm=fit&q=85",
         "type": "wishlist",
@@ -63,7 +51,7 @@
       },
       {
         "id": "1756368088585",
-        "title": "Lasting Drama® Matte Waterproof Eyeliner - Maybelline",
+        "title": "Lasting DramaÂ® Matte Waterproof Eyeliner - Maybelline",
         "link": "https://www.maybelline.com/eye-makeup/eyeliner/lasting-drama-matte-eyeliner-makeup?variant=Jet+Black",
         "image": "https://www.maybelline.com/-/media/project/loreal/brand-sites/mny/americas/us/eye-makeup/eyeliner/lasting-drama-matte-eyeliner-makeup/maybelline-eyeliner-lasting-drama-carbon-matte-liner-jet-black-041554552560-o.jpg?rev=e3ba2105955b412a87be95d860b14691&cx=0&cy=0&cw=315&ch=472&hash=03675DD4E3BD83769FF59FFA8AFB0324",
         "type": "wishlist",
@@ -74,8 +62,20 @@
         "updatedAt": "2025-08-28T08:19:21.240Z"
       },
       {
+        "id": "1756368082717",
+        "title": "24/7 Moondust Glitter Eyeshadow Singles | URBAN DECAY â¡ SEPHORA",
+        "link": "https://www.sephora.me/ae-en/p/24-7-moondust-glitter-eyeshadow-singles/P10017909",
+        "image": "https://img-product.sephora.me/dw/image/v2/BKWK_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dw53e3ebb9/images/hi-res/SKU/SKU_2498/551575_swatch.jpg?sw=1248&sh=1248&sm=fit&q=85",
+        "type": "wishlist",
+        "rating": 0,
+        "review": "",
+        "date": "2025-08-28T08:01:22.717Z",
+        "parsing": false,
+        "updatedAt": "2025-08-28T08:15:49.909Z"
+      },
+      {
         "id": "1756368075469",
-        "title": "Moondust Glitter Eyeshadow Palette | URBAN DECAY ≡ SEPHORA",
+        "title": "Moondust Glitter Eyeshadow Palette | URBAN DECAY â¡ SEPHORA",
         "link": "https://www.sephora.me/ae-en/p/moondust-glitter-eyeshadow-palette/P10055884?productVariantId=706268",
         "image": "https://img-product.sephora.me/dw/image/v2/BKWK_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dw29c191d2/images/hi-res/SKU/SKU_4821/706268_swatch.jpg?sw=1248&sh=1248&sm=fit&q=85",
         "type": "wishlist",
@@ -89,5 +89,5 @@
     "architecture": []
   },
   "deletedItems": [],
-  "lastSync": "2025-08-28T10:10:00.239Z"
+  "lastSync": "2025-08-28T10:23:55.936Z"
 }
