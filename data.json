@@ -1,17 +1,29 @@
 {
   "items": [
     {
+      "id": "txn54fjydpmev04kqp",
+      "createdAt": "2025-08-28T06:07:07.777Z",
+      "section": "makeup",
+      "type": "wishlist",
+      "title": "Parsing...",
+      "url": "https://www.sephora.me/ae-en/p/cheirosa-62-perfume-mist/P3347006?productVariantId=534604",
+      "image": "http://127.0.0.1:5500/index.html",
+      "rating": 0,
+      "note": "",
+      "parsePending": true
+    },
+    {
       "id": "ifkq40i3ommev02clc",
       "createdAt": "2025-08-28T06:05:23.904Z",
       "section": "makeup",
       "type": "wishlist",
       "title": "Glowmotions Body Oil Glow Anywhere Set | SOL DE JANEIRO ≡ SEPHORA",
       "url": "https://www.sephora.me/ae-en/p/glowmotions-body-oil-glow-anywhere-set/P1000207972?productVariantId=764438",
-      "image": "http://127.0.0.1:5500/index.html",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.sephora.me%2Fae-en%2Fp%2Fglowmotions-body-oil-glow-anywhere-set%2FP1000207972%3FproductVariantId%3D764438?w=800",
       "rating": 0,
       "note": "",
       "parsePending": false,
-      "updatedAt": "2025-08-28T06:05:37.417Z"
+      "updatedAt": "2025-08-28T06:06:25.677Z"
     },
     {
       "id": "tzqq4qu8ohmev02524",
@@ -20,11 +32,11 @@
       "type": "wishlist",
       "title": "HD Skin Face Essentials Palette | MAKE UP FOR EVER ≡ SEPHORA",
       "url": "https://www.sephora.me/ae-en/p/hd-skin-face-essentials-palette/P10053928?productVariantId=700288",
-      "image": "http://127.0.0.1:5500/index.html",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.sephora.me%2Fae-en%2Fp%2Fhd-skin-face-essentials-palette%2FP10053928%3FproductVariantId%3D700288?w=800",
       "rating": 0,
       "note": "",
       "parsePending": false,
-      "updatedAt": "2025-08-28T06:05:25.530Z"
+      "updatedAt": "2025-08-28T06:06:18.929Z"
     },
     {
       "id": "xi0a58f0b6cmev01xx7",
@@ -59,11 +71,11 @@
       "type": "wishlist",
       "title": "24/7 Moondust Glitter Eyeshadow Singles | URBAN DECAY ≡ SEPHORA",
       "url": "https://www.sephora.me/ae-en/p/24-7-moondust-glitter-eyeshadow-singles/P10017909",
-      "image": "http://127.0.0.1:5500/index.html",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.sephora.me%2Fae-en%2Fp%2F24-7-moondust-glitter-eyeshadow-singles%2FP10017909?w=800",
       "rating": 0,
       "note": "",
       "parsePending": false,
-      "updatedAt": "2025-08-28T06:04:45.629Z"
+      "updatedAt": "2025-08-28T06:06:32.156Z"
     },
     {
       "id": "k6i9rigq5omev0105h",
@@ -72,13 +84,13 @@
       "type": "wishlist",
       "title": "Moondust Glitter Eyeshadow Palette | URBAN DECAY ≡ SEPHORA",
       "url": "https://www.sephora.me/ae-en/p/moondust-glitter-eyeshadow-palette/P10055884?productVariantId=706268",
-      "image": "http://127.0.0.1:5500/index.html",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.sephora.me%2Fae-en%2Fp%2Fmoondust-glitter-eyeshadow-palette%2FP10055884%3FproductVariantId%3D706268?w=800",
       "rating": 0,
       "note": "",
       "parsePending": false,
-      "updatedAt": "2025-08-28T06:04:34.508Z"
+      "updatedAt": "2025-08-28T06:06:42.461Z"
     }
   ],
-  "lastUpdated": "2025-08-28T06:06:12.831Z",
+  "lastUpdated": "2025-08-28T06:07:13.255Z",
   "version": "2.0"
 }
