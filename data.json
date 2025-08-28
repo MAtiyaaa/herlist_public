@@ -5,12 +5,13 @@
       "createdAt": "2025-08-28T06:07:07.777Z",
       "section": "makeup",
       "type": "wishlist",
-      "title": "Parsing...",
+      "title": "Brazilian Crush Body Perfume Mist ≡ Sephora KSA",
       "url": "https://www.sephora.me/ae-en/p/cheirosa-62-perfume-mist/P3347006?productVariantId=534604",
       "image": "http://127.0.0.1:5500/index.html",
       "rating": 0,
       "note": "",
-      "parsePending": true
+      "parsePending": false,
+      "updatedAt": "2025-08-28T06:07:36.315Z"
     },
     {
       "id": "ifkq40i3ommev02clc",
@@ -91,6 +92,6 @@
       "updatedAt": "2025-08-28T06:06:42.461Z"
     }
   ],
-  "lastUpdated": "2025-08-28T06:07:13.255Z",
+  "lastUpdated": "2025-08-28T06:08:19.089Z",
   "version": "2.0"
 }
