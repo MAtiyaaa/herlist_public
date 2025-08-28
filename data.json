@@ -1,29 +1,56 @@
 {
   "items": [
     {
-      "id": "xi0a58f0b6cmev01xx7",
-      "createdAt": "2025-08-28T06:05:04.891Z",
+      "id": "ifkq40i3ommev02clc",
+      "createdAt": "2025-08-28T06:05:23.904Z",
       "section": "makeup",
       "type": "wishlist",
-      "title": "Access Denied",
-      "url": "https://www.sephora.com/product/benetint-cheek-lip-stain-P1272",
+      "title": "Glowmotions Body Oil Glow Anywhere Set | SOL DE JANEIRO ≡ SEPHORA",
+      "url": "https://www.sephora.me/ae-en/p/glowmotions-body-oil-glow-anywhere-set/P1000207972?productVariantId=764438",
       "image": "http://127.0.0.1:5500/index.html",
       "rating": 0,
       "note": "",
       "parsePending": false,
-      "updatedAt": "2025-08-28T06:05:06.597Z"
+      "updatedAt": "2025-08-28T06:05:37.417Z"
+    },
+    {
+      "id": "tzqq4qu8ohmev02524",
+      "createdAt": "2025-08-28T06:05:14.140Z",
+      "section": "makeup",
+      "type": "wishlist",
+      "title": "HD Skin Face Essentials Palette | MAKE UP FOR EVER ≡ SEPHORA",
+      "url": "https://www.sephora.me/ae-en/p/hd-skin-face-essentials-palette/P10053928?productVariantId=700288",
+      "image": "http://127.0.0.1:5500/index.html",
+      "rating": 0,
+      "note": "",
+      "parsePending": false,
+      "updatedAt": "2025-08-28T06:05:25.530Z"
+    },
+    {
+      "id": "xi0a58f0b6cmev01xx7",
+      "createdAt": "2025-08-28T06:05:04.891Z",
+      "section": "makeup",
+      "type": "wishlist",
+      "title": "Glowmotions Body Oil Glow Anywhere Set | SOL DE JANEIRO ≡ SEPHORA",
+      "url": "https://www.sephora.com/product/benetint-cheek-lip-stain-P1272",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.sephora.me%2Fae-en%2Fp%2Fglowmotions-body-oil-glow-anywhere-set%2FP1000207972%3FproductVariantId%3D764438?w=800",
+      "rating": 0,
+      "note": "",
+      "parsePending": false,
+      "updatedAt": "2025-08-28T06:05:55.576Z"
     },
     {
       "id": "1zacf1fexi8jmev01nsl",
       "createdAt": "2025-08-28T06:04:51.765Z",
       "section": "makeup",
       "type": "wishlist",
-      "title": "Parsing...",
+      "title": "Lasting Drama® Matte Waterproof Eyeliner - Maybelline",
       "url": "https://www.maybelline.com/eye-makeup/eyeliner/lasting-drama-matte-eyeliner-makeup?variant=Jet+Black",
-      "image": "http://127.0.0.1:5500/index.html",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.maybelline.com%2Feye-makeup%2Feyeliner%2Flasting-drama-matte-eyeliner-makeup%3Fvariant%3DJet%2BBlack?w=800",
       "rating": 0,
       "note": "",
-      "parsePending": true
+      "parsePending": false,
+      "updatedAt": "2025-08-28T06:06:05.929Z"
     },
     {
       "id": "kmd31p21ynamev0197o",
@@ -52,6 +79,6 @@
       "updatedAt": "2025-08-28T06:04:34.508Z"
     }
   ],
-  "lastUpdated": "2025-08-28T06:05:12.569Z",
+  "lastUpdated": "2025-08-28T06:06:12.831Z",
   "version": "2.0"
 }
