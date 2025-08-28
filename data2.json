@@ -2,19 +2,86 @@
   "items": {
     "makeup": [
       {
-        "id": "1756360430004",
-        "title": "Moondust Glitter Eyeshadow Palette - Beauty Product",
-        "link": "https://www.sephora.me/ae-en/p/moondust-glitter-eyeshadow-palette/P10055884?productVariantId=706268",
-        "image": "",
+        "id": "1756368082717",
+        "title": "24/7 Moondust Glitter Eyeshadow Singles | URBAN DECAY ≡ SEPHORA",
+        "link": "https://www.sephora.me/ae-en/p/24-7-moondust-glitter-eyeshadow-singles/P10017909",
+        "image": "https://img-product.sephora.me/dw/image/v2/BKWK_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dw53e3ebb9/images/hi-res/SKU/SKU_2498/551575_swatch.jpg?sw=1248&sh=1248&sm=fit&q=85",
         "type": "wishlist",
         "rating": 0,
         "review": "",
-        "date": "2025-08-28T05:53:50.004Z",
+        "date": "2025-08-28T08:01:22.717Z",
+        "parsing": false,
+        "updatedAt": "2025-08-28T08:15:49.909Z"
+      },
+      {
+        "id": "1756368157244",
+        "title": "Benetint - Rose-tinted Lip & Cheek Stain | BENEFIT COSMETICS ≡ SEPHORA",
+        "link": "https://www.sephora.me/ae-en/p/benetint-rose-tinted-lip-cheek-stain/P10044925",
+        "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.sephora.me%2Fae-en%2Fp%2Fbenetint-rose-tinted-lip-cheek-stain%2FP10044925?w=800&h=600",
+        "type": "wishlist",
+        "rating": 0,
+        "review": "",
+        "date": "2025-08-28T08:02:37.244Z",
+        "parsing": false
+      },
+      {
+        "id": "1756368113865",
+        "title": "Brazilian Crush Body Perfume Mist ≡ Sephora KSA",
+        "link": "https://www.sephora.me/ae-en/p/cheirosa-62-perfume-mist/P3347006?productVariantId=534604",
+        "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.sephora.me%2Fae-en%2Fp%2Fcheirosa-62-perfume-mist%2FP3347006%3FproductVariantId%3D534604?w=800&h=600",
+        "type": "wishlist",
+        "rating": 0,
+        "review": "",
+        "date": "2025-08-28T08:01:53.865Z",
+        "parsing": false
+      },
+      {
+        "id": "1756368106048",
+        "title": "Glowmotions Body Oil Glow Anywhere Set | SOL DE JANEIRO ≡ SEPHORA",
+        "link": "https://www.sephora.me/ae-en/p/glowmotions-body-oil-glow-anywhere-set/P1000207972?productVariantId=764438",
+        "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.sephora.me%2Fae-en%2Fp%2Fglowmotions-body-oil-glow-anywhere-set%2FP1000207972%3FproductVariantId%3D764438?w=800&h=600",
+        "type": "wishlist",
+        "rating": 0,
+        "review": "",
+        "date": "2025-08-28T08:01:46.048Z",
+        "parsing": false
+      },
+      {
+        "id": "1756368097593",
+        "title": "HD Skin Face Essentials Palette | MAKE UP FOR EVER ≡ SEPHORA",
+        "link": "https://www.sephora.me/ae-en/p/hd-skin-face-essentials-palette/P10053928?productVariantId=700288",
+        "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.sephora.me%2Fae-en%2Fp%2Fhd-skin-face-essentials-palette%2FP10053928%3FproductVariantId%3D700288?w=800&h=600",
+        "type": "wishlist",
+        "rating": 0,
+        "review": "",
+        "date": "2025-08-28T08:01:37.593Z",
+        "parsing": false
+      },
+      {
+        "id": "1756368088585",
+        "title": "Lasting Drama® Matte Waterproof Eyeliner - Maybelline",
+        "link": "https://www.maybelline.com/eye-makeup/eyeliner/lasting-drama-matte-eyeliner-makeup?variant=Jet+Black",
+        "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.maybelline.com%2Feye-makeup%2Feyeliner%2Flasting-drama-matte-eyeliner-makeup%3Fvariant%3DJet%2BBlack?w=800&h=600",
+        "type": "wishlist",
+        "rating": 0,
+        "review": "",
+        "date": "2025-08-28T08:01:28.585Z",
+        "parsing": false
+      },
+      {
+        "id": "1756368075469",
+        "title": "Moondust Glitter Eyeshadow Palette | URBAN DECAY ≡ SEPHORA",
+        "link": "https://www.sephora.me/ae-en/p/moondust-glitter-eyeshadow-palette/P10055884?productVariantId=706268",
+        "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.sephora.me%2Fae-en%2Fp%2Fmoondust-glitter-eyeshadow-palette%2FP10055884%3FproductVariantId%3D706268?w=800&h=600",
+        "type": "wishlist",
+        "rating": 0,
+        "review": "",
+        "date": "2025-08-28T08:01:15.469Z",
         "parsing": false
       }
     ],
     "architecture": []
   },
   "deletedItems": [],
-  "lastSync": "2025-08-28T08:16:13.965Z"
+  "lastSync": "2025-08-28T08:16:52.389Z"
 }
