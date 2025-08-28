@@ -1,20 +1,8 @@
 {
   "items": {
-    "makeup": [
-      {
-        "id": "1756360430004",
-        "title": "Moondust Glitter Eyeshadow Palette - Beauty Product",
-        "link": "https://www.sephora.me/ae-en/p/moondust-glitter-eyeshadow-palette/P10055884?productVariantId=706268",
-        "image": "",
-        "type": "wishlist",
-        "rating": 0,
-        "review": "",
-        "date": "2025-08-28T05:53:50.004Z",
-        "parsing": false
-      }
-    ],
+    "makeup": [],
     "architecture": []
   },
   "deletedItems": [],
-  "lastSync": "2025-08-28T07:20:22.006Z"
+  "lastSync": "2025-08-28T07:20:40.229Z"
 }
