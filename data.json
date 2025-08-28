@@ -69,14 +69,14 @@
       "id": "kmd31p21ynamev0197o",
       "createdAt": "2025-08-28T06:04:32.868Z",
       "section": "makeup",
-      "type": "wishlist",
+      "type": "review",
       "title": "24/7 Moondust Glitter Eyeshadow Singles | URBAN DECAY ≡ SEPHORA",
       "url": "https://www.sephora.me/ae-en/p/24-7-moondust-glitter-eyeshadow-singles/P10017909",
       "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.sephora.me%2Fae-en%2Fp%2F24-7-moondust-glitter-eyeshadow-singles%2FP10017909?w=800",
-      "rating": 0,
+      "rating": 5,
       "note": "",
       "parsePending": false,
-      "updatedAt": "2025-08-28T06:06:32.156Z"
+      "updatedAt": "2025-08-28T06:11:32.285Z"
     },
     {
       "id": "k6i9rigq5omev0105h",
@@ -92,6 +92,6 @@
       "updatedAt": "2025-08-28T06:06:42.461Z"
     }
   ],
-  "lastUpdated": "2025-08-28T06:11:30.672Z",
+  "lastUpdated": "2025-08-28T06:12:33.074Z",
   "version": "2.0"
 }
